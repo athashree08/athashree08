@@ -1,16 +1,23 @@
-## Hi there 👋
+# ME
+## It's Me, Hi! I'm Atty
 
-<!--
-**athashree08/athashree08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science BTech Student | Code meets Creativity | Building My Own Story (with Tech)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌸 I love mixing tech with personality - whether it’s AI, UI, or turning chaos into cute code.  
+From pastel CSS to powerful Python, I explore tools that spark both logic and joy.
+
+### 🌱 Currently Growing In:
+- Full-stack development (Web dev , DSA, Python)
+- Django Framework
+- AI and Machine Learning (the fun, responsible kind)
+- UI/UX that feels like a warm hug
+
+☕ Catch me dreaming in variables, designing with vibes, and debugging like a detective.
+
+---
+
+🎯 Always curious, always caffeinated, always creating.
+### Forever in my *Dev Era*.
