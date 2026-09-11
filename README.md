@@ -162,8 +162,11 @@ I'm particularly interested in understanding **why models work**, not just how t
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athashree08&show_icons=true&hide_border=true&rank_icon=github" />
   <img src="https://streak-stats.demolab.com?user=athashree08&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=athashree08&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
