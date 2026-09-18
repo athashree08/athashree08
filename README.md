@@ -8,6 +8,9 @@
   <a href="mailto:badokarathashree@gmail.com">
     <img src="https://img.shields.io/badge/Email-badokarathashree%40gmail.com-red?style=flat&logo=gmail" />
   </a>
+  <a href="https://www.datascienceportfol.io/badokaratty">
+    <img src="https://img.shields.io/badge/Portfolio-Data%20Science-orange?style=flat" />
+  </a>
   <a href="https://github.com/athashree08">
     <img src="https://img.shields.io/badge/GitHub-Athashree%20Badokar-black?style=flat&logo=github" />
   </a>
